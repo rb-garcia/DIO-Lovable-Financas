@@ -1,4 +1,4 @@
-# DIO-Lovable-Financas
+# DIO-Lovable-Finanças
 DIO-Lovable-Financas
 
 # Prompt Otimizado
