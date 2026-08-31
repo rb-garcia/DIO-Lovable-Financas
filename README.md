@@ -50,4 +50,14 @@ App de controle financeiro onde toda a interação acontece por chat com IA: o u
 ## Escopo do MVP (O que fica fora)
 - Não entram: integração bancária/Open Finance, anexos de comprovantes, moedas múltiplas, compartilhamento familiar. Tudo manual-via-chat
 
+## Esboço de Validação Inicial / Métricas de Validação MVP
+- Teste de conceito (semana 1–2): protótipo do chat funcionando com 5–10 usuários conhecidos; medir se a IA classifica corretamente ≥90% dos registros.
+- Entrevistas: 10–15 pessoas do público-alvo — "você já tentou planilha/app e desistiu? Por quê?" para confirmar a dor.
+- % de usuários que registram gastos em ≥4 dias por semana (retenção do hábito);
+- tempo médio para registrar um gasto (<10 segundos vs. formulário);
+- % que volta ao app após 7 e 30 dias;
+- NPS simples após 2 semanas de uso.
+- Critério de sucesso: pelo menos 40% dos testadores ativos na semana 4 e relatos de que o chat é mais fácil que planilha/app tradicional.
+
+  
 
