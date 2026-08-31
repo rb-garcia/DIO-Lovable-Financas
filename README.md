@@ -59,5 +59,20 @@ App de controle financeiro onde toda a interação acontece por chat com IA: o u
 - NPS simples após 2 semanas de uso.
 - Critério de sucesso: pelo menos 40% dos testadores ativos na semana 4 e relatos de que o chat é mais fácil que planilha/app tradicional.
 
-  
+# Processo
+## O que funcionou bem?
+- Estrutura os prompts de forma simples e clara
+- Definir o que deve ser entregue explicitamente
+- Iterar com comandos curtos e incrementais
+
+## O que não funcionou como o esperado?
+- Definir um contexto simples para gerar o primeiro rascunho do prompt
+- Criar instruções ambiguas e repetitivas
+- Pedidos muito amplos em uma única mensagem
+
+## O que aprendeu sobre conversar com IAs?
+- A clareza vale mais que a quantidade, listas, títulos e seções funcionam bem.
+- O implícito precisa virar explicito, focando apenas no essencial
+- A iteração é a parte principal do processo
+- A IA reflete a qualidade do input
 
