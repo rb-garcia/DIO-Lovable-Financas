@@ -78,3 +78,7 @@ App de controle financeiro onde toda a interação acontece por chat com IA: o u
 
 # Telas
 <img width="1313" height="843" alt="image" src="https://github.com/user-attachments/assets/9f0b0caa-ab7e-4c97-ac3d-4186868e799d" />
+
+<img width="1319" height="840" alt="image" src="https://github.com/user-attachments/assets/2d8a8b5f-7d3a-4665-bbf3-9ac916687fec" />
+
+<img width="1303" height="839" alt="image" src="https://github.com/user-attachments/assets/e8cedbe5-a7d8-455a-8cf7-3ef2127e71ba" />
