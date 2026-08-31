@@ -76,3 +76,5 @@ App de controle financeiro onde toda a interação acontece por chat com IA: o u
 - A iteração é a parte principal do processo
 - A IA reflete a qualidade do input
 
+# Telas
+<img width="1313" height="843" alt="image" src="https://github.com/user-attachments/assets/9f0b0caa-ab7e-4c97-ac3d-4186868e799d" />
